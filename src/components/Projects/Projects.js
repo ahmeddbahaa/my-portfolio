@@ -28,16 +28,6 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               isBlog={false}
-              title="MyReads"
-              description="My Reads is web-application that manage your reading books using reactjs."
-              demoLink="https://github.com/ahmeddbahaa/MyReads"
-            />
-          </Col>
-        </Row>
-        <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-          <Col md={4} className="project-card">
-            <ProjectCard
-              isBlog={false}
               title="Valeo Mentorship Program"
               description="Wokred with Valeo Ai Department team and published 20 NLP models in Abstractive Arabic text summarization task and won 2nd best place in valeo projects"
               demoLink="https://huggingface.co/ahmeddbahaa"
@@ -48,9 +38,29 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               isBlog={false}
+              title="MyReads"
+              description="My Reads is web-application that manage your reading books using reactjs."
+              demoLink="https://github.com/ahmeddbahaa/MyReads"
+            />
+          </Col>
+        </Row>
+        <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              isBlog={false}
               title="1st place in Cegedim Hackathon (2022)"
               description="Designed and developed a Video Conference Web-application that connects the doctor with patients in realtime using nodejs & express & reactjs & redux & Circle CI/CD Pipline."
               demoLink="https://github.com/ahmeddbahaa/Emergency-Aid"
+            />
+          </Col>
+        </Row>
+        <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              isBlog={false}
+              title="Hoo Bank Landing Page"
+              description="Landing Page for Hoo Bank using Reactjs and tailwind CSS."
+              demoLink="https://62f82f01fc1ab27cfca08f09--earnest-pegasus-e9e12f.netlify.app/"
             />
           </Col>
         </Row>
