@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.65e21302.css",
+    "main.js": "/my-portfolio/static/js/main.222d636e.js",
+    "static/js/787.1ed0c42c.chunk.js": "/my-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/home-main.svg": "/my-portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/my-portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Soumyajit_Behera-BIT_MESRA.pdf": "/my-portfolio/static/media/Soumyajit_Behera-BIT_MESRA.fc9a8c933ae7b8fc5021.pdf",
+    "static/media/home-bg.jpg": "/my-portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/my-portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/my-portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/my-portfolio/index.html",
+    "main.65e21302.css.map": "/my-portfolio/static/css/main.65e21302.css.map",
+    "main.222d636e.js.map": "/my-portfolio/static/js/main.222d636e.js.map",
+    "787.1ed0c42c.chunk.js.map": "/my-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65e21302.css",
+    "static/js/main.222d636e.js"
+  ]
+}
